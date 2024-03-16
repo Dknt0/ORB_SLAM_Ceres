@@ -1,0 +1,5 @@
+../../Vocabulary/ORBvoc.txt TUM1.yaml ~/Datasets/tum_dataset/rgbd_dataset_freiburg1_desk2_secret/ ~/Datasets/tum_dataset/rgbd_dataset_freiburg1_desk2_secret/associate.txt
+
+../../Vocabulary/ORBvoc.txt KITTI00-02.yaml ~/Datasets/kitti_odometry_2012/gray/00/
+
+
